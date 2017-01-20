@@ -12,3 +12,32 @@
   	</div>
   </body>
 </html> //html bracket
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animals Around the World</title>
+</head>
+<body>
+  <h1>The Brown Bear</h1>
+  <!-- A section that describes the brown bear -->
+  <p>info about bears can be added here</p>
+  <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a> // works as a hyperlink 
+  <p>Here are some bear species:</p>
+  <ul>
+    <li>Arctos</li>
+    <li>Collarus</li>
+    <li>Horribilis</li>
+    <li>Nelsoni (extinct)</li>
+  </ul>
+  <p>The following countries have the largest populations of brown bears:</p>
+  <ol>
+    <li>Russia</li>
+    <li>United States</li>
+    <li>Canada</li>
+  </ol>
+  <a href="#" target="_blank">
+    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /></a>
+</body> 
+</html>
