@@ -20,14 +20,14 @@
   <title>Animals Around the World</title>
 </head>
 <body>
-  <h1>The Brown Bear</h1>
+  <h1>The Brown Bear</h1> // this is the headings any other headings will be the subheading.
   <!-- A section that describes the brown bear -->
-  <p>info about bears can be added here</p>
+  <p>info about bears can be added here</p> //paragraph items.
   <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a> // works as a hyperlink 
   <p>Here are some bear species:</p>
-  <ul>
+  <ul> // creates an unordered lists
     <li>Arctos</li>
-    <li>Collarus</li>
+    <li>Collarus</li> // these make the bullet point lists.
     <li>Horribilis</li>
     <li>Nelsoni (extinct)</li>
   </ul>
