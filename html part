@@ -1,45 +1,15 @@
-<!DOCTYPE html> //used to state that we are working in HTML 5 
-<html> // what is in between these brackets are considered html
-  <head> // has information that isnt displayed on the website
-    <title>Richard</title>
-    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:200|Raleway:100' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-  	<div class="container">
-  		<h1>Richard</h1>
-  	  <a class="btn" href="#">Get Started</a>
-  	</div>
-  </body>
-</html> //html bracket
-
-
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Animals Around the World</title>
+<head> 
+<title> QMA </title> //appears on the tab
 </head>
 <body>
-  <h1>The Brown Bear</h1> // this is the headings any other headings will be the subheading.
-  <!-- A section that describes the brown bear -->
-  <p>info about bears can be added here</p> //paragraph items.
-  <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a> // works as a hyperlink 
-  1.21.17// include the link in the anchor element start then include what it will be linked to.
-  //it is called the href
-  <p>Here are some bear species:</p>
-  <ul> // creates an unordered lists
-    <li>Arctos</li>
-    <li>Collarus</li> // these make the bullet point lists.
-    <li>Horribilis</li>
-    <li>Nelsoni (extinct)</li>
-  </ul>
-  <p>The following countries have the largest populations of brown bears:</p>
-  <ol> //similar to an ordered list except each item is numbered.
-    <li>Russia</li>
-    <li>United States</li>
-    <li>Canada</li>
-  </ol>
-  <a href="#" target="_blank">
-    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /></a>
-</body> 
+
+
+</body>
 </html>
+
+
+// <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">The Brown Bear </a> target = "_blank" opens in a new window
+<img src = "link for image" alt="title of the image" /> image is a self closing element 
+<a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"><img src= "https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt = "a brown bear" /></a> //wraps the image in an anchor element.
