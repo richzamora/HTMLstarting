@@ -24,6 +24,8 @@
   <!-- A section that describes the brown bear -->
   <p>info about bears can be added here</p> //paragraph items.
   <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a> // works as a hyperlink 
+  1.21.17// include the link in the anchor element start then include what it will be linked to.
+  //it is called the href
   <p>Here are some bear species:</p>
   <ul> // creates an unordered lists
     <li>Arctos</li>
