@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head> 
-<title> QMA </title> //appears on the tab
+<title> QMA:Home </title> //appears on the tab
 <style>
  <!-- if you want to include css in same file as html need to include the style
 </style> 
@@ -15,6 +15,7 @@
 </html>
 
 
+<!-- below is helpful reminders on formatting for anchors,images, and links -->
 <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">The Brown Bear </a> target = "_blank" opens in a new window
 <img src = "link for image" alt="title of the image" /> image is a self closing element 
 <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"><img src= "https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt = "a brown bear" /></a> //wraps the image in an anchor element.
